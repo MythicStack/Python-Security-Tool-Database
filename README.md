@@ -2,7 +2,7 @@
 ___
 ![Last Commit](https://img.shields.io/github/last-commit/MythicStack/Python-Security-Tool-Database)
 ___
-##### Synopsis
+## Synopsis
  Future home of the world's largest repo of Python exploits and tools. I didn't really find anything great in existence, so making it myself. My table of contents will likely be garbage, so you should probably rely on Ctrl + F.
  
  Really I just want to make something people will use so if you have input, DM me on Twitter: [@MythicStack](https://www.twitter.com/MythicStack). 
