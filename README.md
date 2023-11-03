@@ -3,23 +3,31 @@ ___
 ![Last Commit](https://img.shields.io/github/last-commit/MythicStack/Python-Security-Tool-Database)
 ___
 ## Synopsis
- Future home of the world's largest repo of Python exploits and tools. I didn't really find anything great in existence, so making it myself. My table of contents will likely be garbage, so you should probably rely on Ctrl + F.
- 
- Really I just want to make something people will use so if you have input, DM me on Twitter: [@MythicStack](https://www.twitter.com/MythicStack). 
+ I didn't really find a good Python toolkit online and I just want to make something people will use so if you have input, DM me on Twitter: [@MythicStack](https://www.twitter.com/MythicStack). 
  
  If you think a project should be included here I really want to know, but keep in mind that this isn't supposed to be a dictionary. I want to keep the best, covering as many bases as possible while minimizing overlap.
+
 
 ___
 
 ### Table of Contents
 
+ - [Not Python](#not-python)
  - [Adversary Simulation](#adversary-simulation)
  - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response-dfir)
  - [Information  Gathering](#information-gathering)
- - [Penetration Testing]()
+ - [Penetration Testing](#penetration-testing)
+ - [Social Engineering](#social-engineering)
  - [Vulnerability Scanning](#vulnerability-scanning)
+ - [Wireless Security](#wireless-security)
 
 ___
+
+
+##### Not Python
+
+- [Metasploit](https://github.com/rapid7/metasploit-framework) - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
+
 
 
 ##### Adversary Simulation
@@ -57,12 +65,32 @@ ___
 - [theHarvester](https://github.com/laramies/theHarvester) - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
 
 
+##### Password Cracking
+
+- [Patator](https://github.com/lanjelot/patator) - All in one brute forcer. This is built as an alternative to Hydra (near and dear to me, but definitely not Python anymore, mostly C) and some other tooling built into Kali by default. It's a sick multi-threaded application that's super flexible and inclusive.
+
+
 ##### Penetration Testing
 
 - [EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework) - Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.
 - [SQL Map](https://github.com/sqlmapproject/sqlmap) - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
 
 
+##### Social Engineering
+
+- [King Phisher](https://github.com/rsmusllp/king-phisher) - May look reduntant since the SET has a set of modules for phishing, but worry not this is definitely meant to be here. SET has a broad set of tooling in it, but King Phisher focuses on one thing and it does it really well. SMS alerts, MFA bypass, detailed email building, and a lot more are cooked into this tool.
+- [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Built by one of my favorite people [@HackingDave](www.twitter.com/HackingDave), this Python toolkit (so it's built with more than just Python, sue me) is a modular piece of art with 15+ built in tools that work well out of the box. Plus for new folks to the tool it also has a extremely easy to digest User Manual.
+
+
 ##### Vulnerability Scanning
 
 - [Faraday](https://github.com/infobyte/faraday) - Faraday is clean and I love using it, I've messed with it in my home lab a lot. Bottom line is, it's fantastic. It has a clean & intuitive web UI, tracks vulnerability history, aids in remediation efforts, and it's updated as often as you'd expect. All the damn time.
+- [Bandit](https://github.com/PyCQA/bandit) - Slight change up to the rest of the tools in this list, but Bandit is still pretty useful. It's a static code analysis tool for Python scripts. Can be helpful for finding vulnerabilities in home brew applications and it's just a nice tool to have around if you're going to be building anything on your own with Python so you're not making any egregious slip ups.
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) - Raccoon is pretty sweet, very helpful, and a must have in your toolkit. It's not super well maintained, but it's open source and works perfectly out of the box for external attack surface scanning and information gathering.
+
+
+##### Wireless Security
+
+- [Wifite2](https://github.com/derv82/wifite2) - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
+
+
