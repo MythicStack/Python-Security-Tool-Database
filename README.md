@@ -65,6 +65,11 @@ ___
 - [theHarvester](https://github.com/laramies/theHarvester) - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
 
 
+##### Networking
+
+- [Impacket](https://github.com/fortra/impacket) - Impacket is a flexible toolkit for crafting, manipulating, and analyzing network protocols. Never leave home without it.
+
+
 ##### Password Cracking
 
 - [Patator](https://github.com/lanjelot/patator) - All in one brute forcer. This is built as an alternative to Hydra (near and dear to me, but definitely not Python anymore, mostly C) and some other tooling built into Kali by default. It's a sick multi-threaded application that's super flexible and inclusive.
