@@ -64,6 +64,7 @@ ___
 - [sherlock](https://github.com/sherlock-project/sherlock) - Best broad social media hunter I've used by far. So simple a caveman could do it. 
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
 - [theHarvester](https://github.com/laramies/theHarvester) - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
+- [whoisrecon](https://github.com/MythicStack/whoisrecon) - Shameless self-plug, this is a pretty useful tool I cooked up that lets you use CLI to query a WHOIS archive for historical data and find related domains from wildcard support searches of emails, organizations, and more!
 
 
 ##### Networking
