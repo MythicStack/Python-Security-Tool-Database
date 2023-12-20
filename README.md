@@ -1,4 +1,4 @@
-# Python Exploit & Tool Database (Under Construction)
+# Python Exploit & Tool Database
 ___
 ![Last Commit](https://img.shields.io/github/last-commit/MythicStack/Python-Security-Tool-Database)
 ___
@@ -70,6 +70,8 @@ ___
 ##### Networking
 
 - [Impacket](https://github.com/fortra/impacket) - Impacket is a flexible toolkit for crafting, manipulating, and analyzing network protocols. Never leave home without it.
+- [Scapy](https://github.com/secdev/scapy) - Python packet manipulation tool for a really solid number of protocols.
+- [NetworkX](https://github.com/networkx/networkx) - Incredibly thourough network mapping and analysis tool for small and large networks.
 
 
 ##### Password Cracking
@@ -81,6 +83,7 @@ ___
 
 - [EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework) - Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.
 - [SQL Map](https://github.com/sqlmapproject/sqlmap) - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
+- [CrackMapExec](https://www.kali.org/tools/crackmapexec/) - CrackMapExec (CME) is a post-exploitation tool to automate the assessment of large Active Directory networks. I think there's some drama here between [byt3bl33d3r](https://github.com/byt3bl33d3r/CrackMapExec) and Kali, but I don't know so I'm linking primarily to the Kali one since it's maintained and byt3's is archived. 
 
 
 ##### Social Engineering
@@ -99,5 +102,6 @@ ___
 ##### Wireless Security
 
 - [Wifite2](https://github.com/derv82/wifite2) - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
+- [BetterCAP](https://github.com/bettercap/bettercap) - BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.
 
 
