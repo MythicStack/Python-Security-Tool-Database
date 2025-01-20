@@ -54,6 +54,7 @@ ___
 ##### Information Gathering
 
 - [Anubis](https://github.com/jonluca/Anubis) - Subdomain enumerator actively maintained by [jonluca](https://github.com/jonluca). It's a good tool and it works well. Has the added benefit of having a nice README with clear examples. Every issue (at the time of writing) has been resolved. The dude has some pretty cool projects on his blog too.
+- [BlackBird](https://github.com/p1ngul1n0/blackbird) - Another OSINT tool! I seem to have a favorite category at this point.
 - [DaProfiler](https://github.com/daprofiler/DaProfiler) - This a person profiler and covers bases that others on this list do not. It's fairly in-depth, updated regularly, and has a clean UI. Easy to use and works well, some false positives.
 - [holehe](https://github.com/megadose/holehe) - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: "Clean/Functional/Well Documented, but it smells like a corporate project."
