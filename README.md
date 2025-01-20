@@ -3,7 +3,7 @@ ___
 ![Last Commit](https://img.shields.io/github/last-commit/MythicStack/Python-Security-Tool-Database)
 ___
 ## Synopsis
- I didn't really find a good Python toolkit online and I just want to make something people will use so if you have input, DM me on Twitter: [@MythicStack](https://www.twitter.com/MythicStack). 
+ I didn't really find a good Python toolkit online and I just want to make something people will use so if you have input, talk to me on BlueSky! https://bsky.app/profile/mythicstack.com
  
  If you think a project should be included here I really want to know, but keep in mind that this isn't supposed to be a dictionary. I want to keep the best, covering as many bases as possible while minimizing overlap.
 
